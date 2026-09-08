@@ -72,9 +72,9 @@ and building practical projects that solve real-world problems.
 * Analyzed the impact of CIBIL score, income, loan amount, and other financial factors on loan approval.
 * **Tech Stack:** Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
-### 📊 Online-Retail Sales Analysis
+### 📊 E-Commarace Sales Analysis
 
-* Analyzed online-Retail sales data to identify trends, top-performing products, and profitability insights.
+* Analyzed E-Commarce sales data to identify trends, top-performing products, and profitability insights.
 * Performed exploratory analysis of sales transactions to identify product performance, customer behavior, payment patterns and business trends.
 * Created visualizations and dashboards to communicate key findings.
 * **Tech Stack:** Python | Pandas | Matplotlib | Seaborn | Power BI
